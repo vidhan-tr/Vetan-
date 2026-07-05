@@ -145,34 +145,6 @@ No package manager, no bundler, no framework — by design.
 
 ---
 
-## Getting Started
-
-### Prerequisites
-Just a modern browser and (for charts/PDF export) an internet connection, since
-Chart.js and jsPDF load from `cdnjs.cloudflare.com`.
-
-### Installation
-
-```bash
-git clone https://github.com/vidhan-tr/vetan-salary-calculator.git
-cd vetan
-```
-
-### Running it
-
-Open `index.html` directly in a browser, or serve it locally so relative paths
-behave exactly as they would in production:
-
-```bash
-npx serve .
-# or
-python3 -m http.server 8000
-```
-
-Then visit `http://localhost:PORT` in your browser.
-
----
-
 ## Folder Structure
 
 ```

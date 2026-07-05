@@ -154,8 +154,8 @@ Chart.js and jsPDF load from `cdnjs.cloudflare.com`.
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/vetan-salary-calculator.git
-cd vetan-salary-calculator
+git clone https://github.com/vidhan-tr/vetan-salary-calculator.git
+cd vetan
 ```
 
 ### Running it

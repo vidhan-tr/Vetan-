@@ -15,7 +15,7 @@ in-hand salary for Indian employees, with a full breakdown of every deduction.
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](#contributing)
 
-· [Report Bug](../../issues) · [Request Feature](../../issues)
+[Report Bug](../../issues) · [Request Feature](../../issues)
 
 </div>
 

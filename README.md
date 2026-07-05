@@ -21,18 +21,6 @@ in-hand salary for Indian employees, with a full breakdown of every deduction.
 
 ---
 
-## 📸 Screenshots
-
-<div align="center">
-<!-- Replace these with real screenshots/GIFs before publishing -->
-<img src="assets/screenshot-dashboard-dark.png" width="47%" alt="Dashboard — dark mode" />
-<img src="assets/screenshot-dashboard-light.png" width="47%" alt="Dashboard — light mode" />
-</div>
-
-> Add your own screenshots to `/assets` and update the paths above — GitHub renders
-> them directly in this README once pushed.
-
----
 
 ## Table of Contents
 
